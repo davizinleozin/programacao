@@ -46,6 +46,10 @@ border-radius: 0.6rem;
 font-size: 1vw;
 }
 
-.cartao__conteudo{
+.cartao__conteudo p{
   
-  text-align: center
+  text-align: center{
+   margin-top: 1rem;
+   padding: 2rem;
+   margin-top: 4rem;
+  }
